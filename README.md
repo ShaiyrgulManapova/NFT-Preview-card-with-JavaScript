@@ -1,5 +1,5 @@
-# NFT Preview card with JavaScript link 
-https://shaiyrgulmanapova.github.io/NFT-Preview-card-with-JavaScript/
+# NFT Preview card with JavaScript link ⬇
+[https://shaiyrgulmanapova.github.io/NFT-Preview-card-with-JavaScript/] (https://shaiyrgulmanapova.github.io/NFT-Preview-card-with-JavaScript/)
 
 Выполнить верстку компонент NFT карточки. Стилевой гайд, карточки и т.д скачать на сайте: [https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
 
