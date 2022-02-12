@@ -1,1 +1,2 @@
-# Link https://shaiyrgulmanapova.github.io/NFT-Preview-card-with-JavaScript/
+# Link
+https://shaiyrgulmanapova.github.io/NFT-Preview-card-with-JavaScript/
