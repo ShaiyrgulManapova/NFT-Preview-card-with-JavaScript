@@ -10,8 +10,11 @@ wrapper.id = "wrapper";
 wrapper.style.margin = "0 auto";
 wrapper.style.maxWidth = "1440px";
 wrapper.style.display = "flex";
+wrapper.style.flexWrap = "wrap";
 wrapper.style.justifyContent = "space-around";
-wrapper.style.marginTop = "100px";
+wrapper.style.margin = "50px";
+wrapper.style.alignItems = "center";
+wrapper.style.verticalAlign = "middle";
 
 function createCard() {
 
@@ -19,6 +22,7 @@ function createCard() {
 let card = document.createElement("div");
 card.className = "card";
 card.style.padding = "20px 20px";
+card.style.margin = "50px 50px";
 card.style.borderRadius = "20px";
 card.style.backgroundColor = "hsl(216, 50%, 16%)";
 card.style.boxShadow = "3px 14px 28px rgba(0,0,0,0.25), 3px 10px 10px rgba(0,0,0,0.22)";
@@ -87,8 +91,8 @@ timeItem.className = "time-item";
 timeItem.innerText = "3 days left";
 timeItem.style.color = "hsl(215, 51%, 70%)";
 
-let line = document.createElement("hr");
-line.style.borderColor = "hsl(215, 32%, 27%";
+let line = document.createElement("div");
+line.style.borderBottom = "0.1px solid hsl(215, 32%, 27%)";
 
 let user = document.createElement("div");
 user.className = "user";
@@ -138,7 +142,9 @@ userText.appendChild(userName);
 createCard();
 createCard();
 createCard();
+createCard();
+createCard();
+createCard();
 
 
-console.log(card);
 alert("Я оцениваю свою работу на 110 баллов");
