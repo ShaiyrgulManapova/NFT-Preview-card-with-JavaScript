@@ -1,5 +1,5 @@
 # Welcome 🍀👋
-#### Thanks for checking out this NFT card homework.
+## Thanks for checking out this NFT card homework.
 ### GitHub Pages doesn't show the site, so you can view the site in the image below. ⬇
 
 ## p.s [check also with HTML and CSS](https://github.com/ShaiyrgulManapova/NFT-Preview-card-with-HTML-CSS)
